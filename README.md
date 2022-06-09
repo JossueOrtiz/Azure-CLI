@@ -4,7 +4,7 @@
 
 ![](CLI.png)
 
-Una vez descargado abriremos un centro de comando (cdm) y escribiremos "az login" lo cual nos abrira una pagina para iniciar sesion, una ves iniciado sesion se cerrara la pagina y se mostrara en pantalla del cmd que hemos iniciado correctamente
+Una vez descargado abriremos un centro de comando (cmd) y escribiremos "az login" lo cual nos abrira una pagina para iniciar sesion, una ves iniciado sesion se cerrara la pagina y se mostrara en pantalla del cmd que hemos iniciado correctamente
 
 ![](login.png)
 
